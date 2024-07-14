@@ -20,12 +20,9 @@
 	margin-left: auto;
 }
 
-/* #prolunch {
-	height: 185px;
-	width: 370px;
-	object-fit: contain;
-	align-items: center;
-} */
+#project-p {
+	text-wrap: wrap;
+}
 
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
@@ -2058,7 +2055,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style3 .image {
-				border: solid 10px #fff;
+				border: solid 10px #d6d9dd;
 			}
 
 /* Page Wrapper */
