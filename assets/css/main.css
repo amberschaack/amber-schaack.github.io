@@ -20,8 +20,11 @@
 	margin-left: auto;
 }
 
-#project-p {
+.project-para {
 	text-wrap: wrap;
+	display: flex;
+	flex-wrap: wrap;
+	width: 4ƒ5vw;
 }
 
 html, body, div, span, applet, object,
@@ -42,6 +45,9 @@ section, summary, time, mark, audio, video {
 	font: inherit;
 	vertical-align: baseline;
 	scroll-behavior: smooth;
+	/* display: flex; */
+	justify-content: center;
+    align-items: center;
 }
 
 article, aside, details, figcaption, figure,
